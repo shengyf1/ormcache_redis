@@ -1,3 +1,7 @@
+把Cache存到redis中
+
+-------------------
+
 # odoo-orm-cache
 
 ## Dependencies
